@@ -1,2 +1,3 @@
 # Attendance-calculator
-Dynamic attendance calculator web page
+Dynamic attendance calculator web page .
+It Used to calculate the Attendance percentage
