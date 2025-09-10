@@ -60,26 +60,26 @@ document.addEventListener('DOMContentLoaded',function(event){
          if (attendancePercentage > requiredPercentage) {
             message += ' (You are eligible to sit in exams)';
             var gifs = [
-                'auntydance.gif',
-                'dance.gif',
-                'shahrukh.gif',
-                // Add more GIF URLs for this category
+                'Gif/auntydance.gif',
+                'Gif/dance.gif',
+                'Gif/shahrukh.gif',
+                
             ];   
         }else if (attendancePercentage == requiredPercentage) {
             message += ' (You are eligible to sit in exams)';
             var gifs = [
-                'close1.gif',
-                'indian-dance-dancing.gif',
-                'akshaylook.gif',
-                // Add more GIF URLs for this category
+                'Gif/close1.gif',
+                'Gif/indian-dance-dancing.gif',
+                'Gif/akshaylook.gif',
+                
             ];
          } else {
             message += ' (You are not eligible to sit in exams)';
             var gifs = [
-                'bestcry-sad.gif',
-                'jU.gif',
+                'Gif/bestcry-sad.gif',
+                'Gif/jU.gif',
                 
-                // Add more GIF URLs for this category
+                
             ];
         }
 

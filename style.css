@@ -64,12 +64,14 @@ label {
     box-shadow: 0 5px #666;
     transform: translateY(4px);
   }
-    #result {
+  #result {
         margin-top: 20px;
         text-align: center;
     }
-    #gif {
+  #gif {
         display: none;
         margin-top: 20px;
+        background-size:contain;
         text-align: center;
     }
+    

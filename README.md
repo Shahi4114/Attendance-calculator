@@ -31,14 +31,14 @@ It calculates the attendance percentage and provides visual feedback using GIFs.
 ### 🏠 Home Page
 Here’s how the Attendance Calculator looks when you first open it:
 
-![Home Page](/Attendance-calculator/screenshot.png)
+![Home Page](screenshots/screenshot.png)
 
 ---
 
 ### ✅ After Calculating Attendance
 This is the result view after entering values and clicking "Calculate":
 
-![Result View](/Attendance-calculator/screenshot2.png)
+![Result View](screenshots/screenshot2.png)
 
 ---
 
